@@ -1,0 +1,4 @@
+﻿  520检测大写字母.cpp
+f:\leetcode\basic\string类\520检测大写字母\检测大写字母 框架\520检测大写字母\520检测大写字母.cpp(20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\leetcode\basic\string类\520检测大写字母\检测大写字母 框架\520检测大写字母\520检测大写字母.cpp(26): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  520检测大写字母.vcxproj -> F:\leetcode\basic\String类\520检测大写字母\检测大写字母 框架\x64\Debug\520检测大写字母.exe
